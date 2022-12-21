@@ -1,5 +1,6 @@
 # JBMount
 Bloqueador de Escrita e de Montagem Automática de Volumes em Sistemas Windows
+Ferramenta Exclusiva para Peritos Associados APECOF
 
 A ferramenta jbmount é um aplicativo com interface gráfica que impede a montagem automática de volumes em HDD/SSD e desabilita a escrita nas USBs do computador. O bloqueio da escrita funciona via registro do Windows e a desablitação da montagem automática dos volumes funciona de maneira semelhante a sistemas operacionais voltados para computação forense.
 
